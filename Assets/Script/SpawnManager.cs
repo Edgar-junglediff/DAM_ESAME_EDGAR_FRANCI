@@ -11,7 +11,7 @@ public class SpawnManager : MonoBehaviour
     public HandManager handPrefab;
     public List<Transform> transforms = new List<Transform>();
 
-    public int winCost = 200;
+    public int winCost = 400;
     public int spawnCost = 10;
     public Button buyButton;
     public Button winButton;
